@@ -1,1 +1,1 @@
-# CodeAlpha-project1-age-calculator
+# CodeAlpha-internship-projects
